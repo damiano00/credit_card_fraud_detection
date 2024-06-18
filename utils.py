@@ -70,8 +70,13 @@ def evaluate_trained_model(model, X_eval, y_eval, save_dir, is_test, do_cross=Tr
     plt.show()
     if do_cross:
         # sturges = int(1 + np.log(len(X)))
-        sturges = 10
-        scores = cross_val_score(model, X, y, cv=sturges)
+        sturges = 5
+        scores = cross_val_score(
+            model,
+            X,
+            y,
+            cv=sturges,
+        )
         cross_report = f"Cross evaluation: {scores}\n"
         cross_report += f"{scores.mean()} accuracy with a standard deviation of {scores.std()} in {sturges} folds"
         print(cross_report)
