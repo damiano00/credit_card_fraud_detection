@@ -1,0 +1,9 @@
+classification test set
+              precision    recall  f1-score   support
+
+           0     0.9987    0.9973    0.9980     56750
+           1     0.9973    0.9987    0.9980     56976
+
+    accuracy                         0.9980    113726
+   macro avg     0.9980    0.9980    0.9980    113726
+weighted avg     0.9980    0.9980    0.9980    113726

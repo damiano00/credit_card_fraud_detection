@@ -1,0 +1,12 @@
+classification test set
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000     56750
+           1     1.0000    1.0000    1.0000     56976
+
+    accuracy                         1.0000    113726
+   macro avg     1.0000    1.0000    1.0000    113726
+weighted avg     1.0000    1.0000    1.0000    113726
+Cross evaluation: [0.99926138 0.99985931 0.99992966 1.         0.99989448 0.99964828
+ 0.99982414 0.99991207 0.99992966 0.99989448]
+0.9998153456553469 accuracy with a standard deviation of 0.00020467261390998544 in 10 folds
