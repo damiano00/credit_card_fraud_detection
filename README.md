@@ -37,7 +37,6 @@ pip install pandas==2.2.2 numpy==1.26.4 scikit-learn==1.5.0 matplotlib==3.9.0 se
 To efficiently run the analysis and model training, the following hardware specifications are recommended:
 - CPU: Multi-core processor (Quad-core or higher)
 - RAM: Minimum 16 GB
-- Storage: SSD with at least 50 GB of free space
 - GPU: Optional
 
 ## Dataset
