@@ -43,7 +43,7 @@ To efficiently run the analysis and model training, the following hardware speci
 
 <a name="dataset"></a>
 
-The dataset used in this study is the "Credit Card Fraud Detection Dataset 2023," which is publicly available on [Kaggle]([https://pages.github.com/](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023))
+The dataset used in this study is the "Credit Card Fraud Detection Dataset 2023," which is publicly available on [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
 
 ## Group Components
 
