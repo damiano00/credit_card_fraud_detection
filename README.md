@@ -30,7 +30,7 @@ To replicate our results, you need to install the following Python libraries:
 
 You can install these libraries using pip:
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+pip install pandas==2.2.2 numpy==1.26.4 scikit-learn==1.5.0 matplotlib==3.9.0 seaborn==0.13.2 jupyter==1.0.0
 ```
 
 ### Hardware Requirements
