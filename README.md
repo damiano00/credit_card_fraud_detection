@@ -1,4 +1,5 @@
-# Credit Card Fraud Detection: project developed at the University of Camerino
+# Credit Card Fraud Detection
+### Project developed at the University of Camerino
 
 # Table of Contents
 
