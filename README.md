@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 ### Project developed at the [University of Camerino](https://www.unicam.it/en/home)
 
-# Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Setup](#setup)
