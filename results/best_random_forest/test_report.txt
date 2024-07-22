@@ -7,3 +7,5 @@ classification test set
     accuracy                      0.99986810    113726
    macro avg  0.99986840 0.99986784 0.99986810    113726
 weighted avg  0.99986814 0.99986810 0.99986810    113726
+Cross evaluation: [0.99957793 0.99996483 0.99980655 0.99978897 0.99990328]
+0.9998083112041222 accuracy with a standard deviation of 0.00013188423585990612 in 5 folds
